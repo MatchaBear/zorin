@@ -1,7 +1,7 @@
 
 # zorin
 
-zorin os important tweaks
+## zorin os important tweaks
 
 - change display settings to use external monitor by default when boot-up and user login:
 
